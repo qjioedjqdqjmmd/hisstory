@@ -1,5 +1,8 @@
 {
 	"scripts": {
-		"start" : "nodejs"
+		"start": "nodejs"
+	},
+	"dependencies": {
+		"express": "^4.16.2"
 	}
 }
